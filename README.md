@@ -15,25 +15,25 @@ Reusable materials, curriculum, and instructor guidelines for UAEM + AllTrials U
 Beginner. No previous knowledge is required.
 
 ## Audience
-Anyone with an interest in research, communication, or advocacy is welcome. This course is especially useful for those looking to become more involved in advancing research policy and practice in their organization, institution, or discipline.
+Anyone with an interest in research, communication, or advocacy is welcome. This course is especially useful for those looking to become more involved in advancing research policy and practice to promote transparency in their organization, institution, or discipline.
 
 ## Course Description 
-Advancing better research policies and practices in our communities requires effective communication and strategic advocacy. This train-the-trainer course is an interactive and practical workshop to build skills in communication and advocacy with a focus on research transparency issues. 
+Advancing open research policies and practices in our communities requires effective communication and strategic advocacy. This train-the-trainer course is an interactive and practical workshop to build skills in communication and advocacy with a focus on research transparency issues. 
 
-Over two sessions, the course will arm participants with the practice, resources, and community of support they need to improve their skills and to train their peers in the same areas. In the first session, we will share tools, tricks, examples, and frameworks. We will also practice profiling, mapping, and targeting content to audiences. In the second session, we will create and critique personalized plans for communicating, advocating, and evaluating success that will help you advance transparency in your community.
+Over two sessions, the course will arm participants with the practice, resources, and community of support they need to improve their skills and to train their peers in advocacy and communications for open research. In the first session, we will share tools, tricks, examples, and frameworks. We will also practice profiling, mapping, and targeting content to audiences. In the second session, we will create and critique personalized strategic plans for communicating, advocating, and evaluating success that will help you advance research transparency in your community.
 
 ## Course Learning Objectives 
 
-A participant in this course will at the end of the course be able to:
+At the end of this course, participants will be able to:
 * Create compelling and targeted messages that engage their audiences.
-* Learn effective communication and advocacy strategies.
+* Develop effective communication and advocacy strategies.
 * Create a personal communication and advocacy plan with support and feedback.
 * Be familiar with essential information and resources on research transparency.
 
 ## Course Topics
 
 This course will cover the following topics:
-* Advocacy and communication plans.
+* How to build a strategic advocacy and communication plans.
 * Best practices for research transparency advocacy.
 * Research transparency policies and resources.
 
@@ -41,24 +41,30 @@ This course will cover the following topics:
 
 ### Day 1 
 
-* What is transparency? Why does it matter?
+* What is research transparency? Why does it matter?
 * What is advocacy?
 * What is UAEM? What is AllTrials USA? 
-* What role can you play in advocacy for transparency?
+* Who are you and why does research transparency matter to you?
+* What role can you play in advocacy for research transparency?
+* *Advocacy success stories.*
 * Defining your advocacy issue and advocacy goal.
 * Identifying key decision-makers and influencers.
 * Creating a power map.
 
-### Day 2 - Tuesday 
+### Day 2
 
 * Planning for opposition and obstacles.
-* Assessing your advocacy team and partners.
+* Assessing your advocacy resources, team and partners.
 * Selecting your advocacy objectives.
 * Creating a logical framework.
 * Developing compelling messages.
 * Creating your advocacy and communication plans.
 * Evaluating advocacy and communication success.
 * Peer-reviewing your advocacy and communication plans.
+
+### Day 3 - *(Optional action training add-on)*
+
+* TBA
 
 ## Course Materials and Supplies
 
