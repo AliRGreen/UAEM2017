@@ -2,6 +2,17 @@
 
 Adapted from [Advocating Open Access – a toolkit for librarians and research support staff](http://blogs.ucl.ac.uk/open-access/files/2015/06/Advocacy-toolkit.pdf) by [JISC](https://www.jisc.ac.uk/about) and [A Workshop Curriculum on Policy Advocacy Strategy Development](http://sites.path.org/advocacyandpolicy/how-we-do-it/strengthen-advocacy-capacity/) by [PATH](http://www.path.org/).
 
+# To begin: define transparency and advocacy.
+
+# Introductions: Organizations, Facillitators and Participants.
+
+## Who are the organizations and/or facillitators hosting this training?
+
+## Who are you and why do you care about transparency in research? How can you influence transparency?
+* Write down a short explanation of why you are attending the training.
+* Do you have any experience as an advocate and/or in open science?
+* Write down your story, why do you care about research transparency issues?
+
 # Choose an advocacy issue.
 
 ## Identify the main problem you wish to address.
