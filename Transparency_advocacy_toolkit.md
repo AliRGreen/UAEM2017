@@ -456,7 +456,7 @@ Adapted from [Advocating Open Access – a toolkit for librarians and research s
 * Know why you are doing what you are doing. 
 * The more specific the task, the more likely it will happen.
 
-## Decide how long do your campaign needs to last.
+## Decide how long your campaign needs to last.
 * You are starting with people who are dedicated but it is not their job. You need to ask yourself: to what extent do you professionalize what you are trying to do? Keeping momentum with volunteers is hard + rare. The energy of founders is critical to existence. If you professionalize, you are breaking with your roots. You need to either make compromises in time or in what you want to accomplish.
 * People like new projects, but they can run out of steam. Think about how you can keep it going, or if it needs to keep going.
 * To keep student run projects going beyond graduation, you need to find a new leader.
