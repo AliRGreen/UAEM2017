@@ -60,6 +60,35 @@ This course will cover the following topics:
 * Evaluating advocacy and communication success.
 * Peer-reviewing your advocacy and communication plans.
 
+### Day 3 - Add-on
+
+* Preparing and engagng with decision-makers.
+* Planning creative actions.
+* Using social media and earned media effectively.
+
+PRACTICE! 
+* Working in teams of 5-6, pick an advocacy objective.
+* Pick one activity we have listed to achieve a specific objective
+* Pick your target from the list and do your research
+* Plan your talking points and ask
+* Prepare your personal story
+* Assign roles
+* Prepare a leave-behind and plan for follow-up
+* Organize a related creative action
+* Consider props, script, roles, location, ask
+* Make a plan for earned media vs created media
+
+### Day 4 - Advocacy in Action
+
+* Make press calls
+* Go and meet with decision-makers in person
+* Complete your creative action
+* Write a blog, find any coverage, share with your networks
+* Follow up with decision-maker(s) and reflect
+
+* Debrief as a group on the training and next steps!
+
+
 ## Course Materials and Supplies
 
 ### Required 
